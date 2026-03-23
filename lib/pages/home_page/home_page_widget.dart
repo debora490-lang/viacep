@@ -96,7 +96,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                   shape: BoxShape.circle,
                                 ),
                                 child: Image.network(
-                                  'https://img.freepik.com/fotos-gratis/mulher-em-frente-posando-com-roupa-verde_23-2150728962.jpg?semt=ais_hybrid&w=740&q=80',
+                                  'https://images.unsplash.com/photo-1534528741775-53994a69daeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTYyMDF8MHwxfHNlYXJjaHw4fHxtdWxoZXJ8ZW58MHx8fHwxNzc0MjY1ODMwfDA&ixlib=rb-4.1.0&q=80&w=1080',
                                   fit: BoxFit.cover,
                                 ),
                               ),
@@ -158,12 +158,8 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                           EdgeInsetsDirectional.fromSTEB(
                                               12.0, 0.0, 12.0, 0.0),
                                       shape: RoundedRectangleBorder(
-                                        borderRadius: BorderRadius.only(
-                                          bottomLeft: Radius.circular(0.0),
-                                          bottomRight: Radius.circular(0.0),
-                                          topLeft: Radius.circular(0.0),
-                                          topRight: Radius.circular(0.0),
-                                        ),
+                                        borderRadius:
+                                            BorderRadius.circular(8.0),
                                       ),
                                     ),
                                   ),
@@ -1124,8 +1120,8 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                               alignment: AlignmentDirectional(0.0, 1.0),
                               child: ClipRRect(
                                 borderRadius: BorderRadius.circular(8.0),
-                                child: Image.network(
-                                  'https://cdn2.downdetector.com/static/uploads/logo/download-1_02kPvPl.png',
+                                child: Image.asset(
+                                  'assets/images/download-1_02kPvPl.png',
                                   width: double.infinity,
                                   height: 200.0,
                                   fit: BoxFit.cover,

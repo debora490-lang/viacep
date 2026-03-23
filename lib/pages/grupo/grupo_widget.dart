@@ -89,7 +89,7 @@ class _GrupoWidgetState extends State<GrupoWidget> {
                         shape: BoxShape.circle,
                       ),
                       child: Image.network(
-                        'https://img.freepik.com/fotos-gratis/mulher-bonita-em-oculos-laranja-vestido-de-seda-e-bandana-esta-sorrindo-no-espaco-laranja_197531-15311.jpg',
+                        'https://images.unsplash.com/photo-1589156191108-c762ff4b96ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTYyMDF8MHwxfHNlYXJjaHwxMXx8bXVsaGVyJTIwfGVufDB8fHx8MTc3NDI2NTg1M3ww&ixlib=rb-4.1.0&q=80&w=1080',
                         fit: BoxFit.cover,
                       ),
                     ),
@@ -104,7 +104,7 @@ class _GrupoWidgetState extends State<GrupoWidget> {
                         shape: BoxShape.circle,
                       ),
                       child: Image.network(
-                        'https://img.freepik.com/fotos-gratis/retrato-de-uma-mulher-alegre-de-pele-escura-com-cabelo-encaracolado-toca-o-queixo-suavemente-ri-feliz-aproveita-o-dia-de-folga-se-sente-feliz-e-entusiasmada-ouve-algo-positivo-usa-gola-olimpica-azul_273609-43443.jpg?semt=ais_hybrid&w=740&q=80',
+                        'https://images.unsplash.com/photo-1479936343636-73cdc5aae0c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTYyMDF8MHwxfHNlYXJjaHwxOHx8bXVsaGVyfGVufDB8fHx8MTc3NDI2NTgzMHww&ixlib=rb-4.1.0&q=80&w=1080',
                         fit: BoxFit.cover,
                       ),
                     ),
@@ -119,7 +119,7 @@ class _GrupoWidgetState extends State<GrupoWidget> {
                         shape: BoxShape.circle,
                       ),
                       child: Image.network(
-                        'https://img.freepik.com/fotos-gratis/jovem-vestido-de-amarelo-segurando-o-telefone-e-a-xicara-de-cafe_273609-23087.jpg',
+                        'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTYyMDF8MHwxfHNlYXJjaHw4fHxob21lbXxlbnwwfHx8fDE3NzQyNjQ1ODF8MA&ixlib=rb-4.1.0&q=80&w=1080',
                         fit: BoxFit.cover,
                       ),
                     ),
